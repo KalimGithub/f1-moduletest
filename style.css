@@ -557,7 +557,7 @@
     padding: 5%;
     background: rgba(252, 203, 144, 0.15);
     padding-bottom: 3%;
-
+padding-inline: 30px;
 }
 
 .my-footer>p {
